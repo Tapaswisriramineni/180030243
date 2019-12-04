@@ -19,9 +19,9 @@ class P33
                      }
                  }
                   
-             for(int i=0;i<2;i++)
+             for(int i=1;i>=0;i--)
                 {
-                  for(int j=0;j<2;j++)
+                  for(int j=1;j>=0;i--)
                    {
 
                     System.out.print(k[i][j]+" ");
